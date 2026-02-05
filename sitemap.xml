@@ -1,7 +1,20 @@
-User-agent: *
-Allow: /
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-Host: https://adriyadi.web.id
-Sitemap: https://adriyadi.web.id/sitemap.xml
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://adriyadi.web.id/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-# Generated on 2026-01-05T10:40:38.725Z
+  <!-- Halaman About -->
+  <url>
+    <loc>https://adriyadi.web.id/about</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
