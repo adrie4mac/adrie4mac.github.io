@@ -793,7 +793,7 @@ p {
     content: '';
     width: 1000%;
     height: 100%;
-    background-color: #00A78E;
+    background-color: #09ba9fda;
     -webkit-transform: skewX(20deg);
     -moz-transform: skewX(20deg);
     -ms-transform: skewX(20deg);
